@@ -1,0 +1,151 @@
+
+@font-face {
+  font-family: "montserrat-black";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-black-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-black-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-extrabold";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-extrabold-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-extrabold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-bold";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-bold-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-semibold";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-semibold-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-semibold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-medium";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-medium-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-medium-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-regular";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-regular-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-light";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-light-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-light-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-extralight";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-extralight-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-extralight-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "montserrat-thin";
+  src: url("../xploresecurity/XylaufyyyId/montserrat-thin-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyyId/montserrat-thin-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+
+@font-face {
+  font-family: "muli-extrabold";
+  src: url("../xploresecurity/XylaufyyaId/muli-extrabold-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-extrabold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-extrabold-italic";
+  src: url("../xploresecurity/XylaufyyaId/muli-extrabolditalic-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-extrabolditalic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-bold";
+  src: url("../xploresecurity/XylaufyyaId/muli-bold-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-bold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-bold-italic";
+  src: url("../xploresecurity/XylaufyyaId/muli-bolditalic-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-bolditalic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-semibold";
+  src: url("../xploresecurity/XylaufyyaId/muli-semibold-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-semibold-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-semibold-italic";
+  src: url("../xploresecurity/XylaufyyaId/muli-semibolditalic-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-semibolditalic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-regular";
+  src: url("../xploresecurity/XylaufyyaId/muli-regular-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-regular-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-italic";
+  src: url("../xploresecurity/XylaufyyaId/muli-italic-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-italic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-light";
+  src: url("../xploresecurity/XylaufyyaId/muli-light-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-light-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-light-italic";
+  src: url("../xploresecurity/XylaufyyaId/muli-lightitalic-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-lightitalic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-extralight";
+  src: url("../xploresecurity/XylaufyyaId/muli-extralight-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-extralight-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "muli-extralight-italic";
+  src: url("../xploresecurity/XylaufyyaId/muli-extralightitalic-webfont.woff2") format("woff2"), url("../xploresecurity/XylaufyyaId/muli-extralightitalic-webfont.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
