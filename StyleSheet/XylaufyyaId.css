@@ -1,6 +1,6 @@
 
 @import url("XylaufyyaId/XylaufyyaId.css");
-@import url("xploresecurity.css");
+@import url("1337syndicate.css");
 
 
 
@@ -1021,10 +1021,10 @@ h1.intro-header::before {
   padding: 0;
   outline: 0;
   border: none;
-  width: 100px;
-  height: 80px;
+  width: 150px;
+  height: 150px;
   background: url("../Images/logo.png") no-repeat center;
-  background-size: 100px 80px;
+  background-size: 150px 150px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1182,9 +1182,9 @@ h1.intro-header::before {
 
 @media only screen and (max-width: 768px) {
   .header-logo a {
-    width: 89px;
-    height: 80px;
-    background-size: 89px 80px;
+    width: 150px;
+    height: 150px;
+    background-size: 150px 150px;
   }
   #header-nav-wrap {
     display: none;
